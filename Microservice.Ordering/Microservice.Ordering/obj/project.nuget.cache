@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "n7v6+ZygJFI=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vsanc\\Desktop\\Desarrollo web Erick\\Microservice.Ordering\\Microservice.Ordering\\Microservice.Ordering.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vsanc\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.0\\microsoft.aspnetcore.openapi.9.0.0.nupkg.sha512",
+    "C:\\Users\\vsanc\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
